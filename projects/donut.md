@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "HoneyDuck"
 date: 2022-12-16
-published: true
+published: false
 labels:
   - Honey
   - Duck
